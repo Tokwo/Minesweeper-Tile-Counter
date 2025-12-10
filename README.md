@@ -10,4 +10,6 @@ exports stats as csv file
 
 you can move it around and collapse/show the gui
 
-you can even reset the csv if you want
+you can even reset the csv if you 
+
+also auto updates the script :D
