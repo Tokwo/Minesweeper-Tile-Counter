@@ -7,8 +7,8 @@
 // @grant        GM_setValue
 // @icon         https://github.com/Tokwo/Minesweeper-Tile-Counter/blob/main/ms_8.png?raw=true
 // @description  Automatically keeps track of the amount of tiles in a completed minesweeper game on minesweeper.online
-// @updateURL   https://raw.githubusercontent.com/Tokwo/Minesweeper-Tile-Counter/main/WOMTileCounter.user.js
-// @downloadURL https://raw.githubusercontent.com/Tokwo/Minesweeper-Tile-Counter/main/WOMTileCounter.user.js
+// @updateURL    https://raw.githubusercontent.com/Tokwo/Minesweeper-Tile-Counter/main/WOMTileCounter.user.js
+// @downloadURL  https://raw.githubusercontent.com/Tokwo/Minesweeper-Tile-Counter/main/WOMTileCounter.user.js
 // ==/UserScript==
 
 (function() {
